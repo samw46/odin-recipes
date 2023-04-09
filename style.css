@@ -1,0 +1,20 @@
+#sam-kitchen,
+#header {
+    text-align: center;
+}
+
+#header {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+    background: rebeccapurple;
+}
+
+.body {
+    background-color: aquamarine;
+}
+
+.recipes {
+    text-align: center;
+    font-size: 26px;
+    list-style-position: inside;
+}
